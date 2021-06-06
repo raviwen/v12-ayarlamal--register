@@ -23,3 +23,5 @@ Main.json dosyasının içinde ki herşeyi doldurduktan sonra ;
 
 
 Kısaca botumuz böyledir.
+
+he bide install modules.bat tıklarsanız direk modülleri yükler.
