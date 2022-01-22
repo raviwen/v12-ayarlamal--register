@@ -113,15 +113,15 @@ module.exports.raviwen = async(client, message, args, config) => {
     message.channel.send(embed.setDescription(`
     Ayarlabilir Bilgiler
     --------------------
-    \`>\`${main.Prefix}taglog <#Kanal/ID>
-    \`>\`${main.Prefix}hgkanal <#Kanal/ID>
-    \`>\`${main.Prefix}yetkili <@Raviwen/ID>
-    \`>\`${main.Prefix}kayıtsız <@Raviwen/ID>
-    \`>\`${main.Prefix}erkek <1/2> <@Raviwen/ID>
-    \`>\`${main.Prefix}kadın <1/2> <@Raviwen/ID>
-    \`>\`${main.Prefix}booster <@Raviwen/ID>
-    \`>\`${main.Prefix}vip <@Raviwen/ID>
-    \`>\`${main.Prefix}taglı <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla taglog <#Kanal/ID>
+    \`>\`${main.Prefix}ayarla hgkanal <#Kanal/ID>
+    \`>\`${main.Prefix}ayarla yetkili <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla kayıtsız <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla erkek <1/2> <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla kadın <1/2> <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla booster <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla vip <@Raviwen/ID>
+    \`>\`${main.Prefix}ayarla taglı <@Raviwen/ID>
     `))
     }
 
